@@ -4,7 +4,7 @@
 pip install streamlit
 
 #cari file directory yang ingin dijalankan 
-C:\Users\Asus>cd OneDrive\PYTHON\\Tugas_akhir
+c:\PYTHON\Tugas_akhir\submission>
 
 #run streamlit
 streamlit run Dashboard.py
