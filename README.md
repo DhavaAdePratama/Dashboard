@@ -1,8 +1,8 @@
 # PROYEK ANALISI DATA : BIKE SHARING DATASET
-****#DASHBOARD LINK
+## DASHBOARD LINK
 https://dashboard-huh6pd8vs5qczd5cpmws5s.streamlit.app/**
 
-#DESKRIPSI 
+## DESKRIPSI 
 repository ini berisi tentang proyek akhir analisi data dengan python dari Dicoding yang dilakukan setelah mempelajari beberapa topik seperti berikut : 
 1. Dasar-Dasar Analisis Data
 2. Penerapan Dasar-Dasar Descriptive Statistics
@@ -12,7 +12,7 @@ repository ini berisi tentang proyek akhir analisi data dengan python dari Dicod
 6. Data Visualization
 7. Pengembangan Dashboard
 
-#CARA MENJELASKAN DASHBOARD 
+## CARA MENJELASKAN DASHBOARD 
 
 1. Clone repository ini ke komputer lokal yang anda miliki :
    ``` Git clone https://github.com/DhavaAdePratama/Dashboard ```
